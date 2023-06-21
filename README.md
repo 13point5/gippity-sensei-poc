@@ -1,6 +1,8 @@
 # Gippity Sensei PoC
 
-A PoC to show how learning experiences can be made better on platforms like Khan Academy by making use of all interactions like the sketch pad.
+A PoC to show how learning experiences can be made better on platforms like Khan Academy by using the context in interactive elements like the sketch pad.
+
+![Gippity Sensei with OpenAI functions](https://github.com/13point5/gippity-sensei-poc/assets/20568438/9ad39a62-55b4-48ca-9577-6645e2635bfc)
 
 ## Credits
 
